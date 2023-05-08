@@ -38,7 +38,7 @@ cd slack_my_documents
 
 conda create -n slackbot python=3.10.9
 conda activate slackbot
-conda install pytorch -c pytorc
+conda install pytorch -c pytorch
 
 pip install -r requirements.txt 
 ```
